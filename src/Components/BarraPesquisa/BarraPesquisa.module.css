@@ -1,0 +1,16 @@
+.pesquisa {
+    width: 740px;
+    padding: 1rem;
+    border-radius: 8px;
+    outline: none;
+    color: var(--cor-da-fonte);
+    background-color:#3b2d53;
+    border: none;
+    font-size: 1rem;
+}
+
+.pesquisa::placeholder {
+    color: var(--cor-da-fonte);
+    opacity: 50%;
+}
+

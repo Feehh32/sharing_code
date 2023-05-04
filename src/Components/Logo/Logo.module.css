@@ -1,0 +1,15 @@
+.logo {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: .5rem;
+}
+
+.logo p {
+    font-family: var(--fonte-logo);
+    font-size: 2rem;
+    color: var(--cor-da-fonte);
+    text-shadow: .5px .5px 5px var(--secundaria),
+                 0 0 7px var(--principal);
+    line-height: 1.7rem;
+}
